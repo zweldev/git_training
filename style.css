@@ -1,3 +1,7 @@
 footer{
     background-color: aqua;
 }
+
+header{
+    column-gap: normal;
+}
